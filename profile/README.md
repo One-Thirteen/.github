@@ -21,7 +21,7 @@
 | Project | Description | Status | Demo |Code    |
 |---------|-------------|--------|-------|-------|
 | **Momento Camera** | A clean, no-frills camera + gallery app for iOS | 🟢 **3/22/25** | N/A | [📂 Repository](https://one13.link/momentogh)
-| **Link-in-Bio Site** | A minimal, elegant link-in-bio template built in HTML | 🟢 **4/10/25** | [🔗 Demo](https://bio.one13.me) | [📂 Repository](https://github.com/onethirteenco/link-in-bio)
+| **Link-in-Bio Site** | A minimal, elegant link-in-bio template built in HTML | 🟢 **4/12/26** | [🔗 Demo](https://bio.one13.me) | [📂 Repository](https://github.com/onethirteenco/link-in-bio)
 | **Website Template** | A free, minimal website template (HTML/CSS) | 🟢 **5/29/25** | [🌐 Demo](https://one13.link/web-template) | [📂 Repository](https://github.com/onethirteenco/website-template)
 | **Bio Site v1** | First-gen version of our official link page | 🟢 **4/10/25** | [🌿 Demo](https://one13.link/bio-site-v1) | [📂 Repository](https://github.com/onethirteenco/bio-site)
 
