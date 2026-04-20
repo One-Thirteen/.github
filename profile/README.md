@@ -26,28 +26,3 @@
 | **Bio Site v1** | First-gen version of our official link page | 🟢 **4/10/25** | [🌿 Demo](https://one13.link/bio-site-v1) | [📂 Repository](https://github.com/onethirteenco/bio-site)
 
 ---
-
-## 🎯 Mission
-
-At **One Thirteen**, we build tools to **streamline creative workflows** and **boost productivity** through clean, intuitive design.  
-Our work emphasizes **privacy**, **functionality**, and a focus on the creator.
-
----
-
-## 🔗 Official Link Hub
-
-> 🌐 **[bio.one13.me](https://bio.one13.me)** — Your gateway to all things One Thirteen
-> 
-> 🌐 **[onethirteen.co](https://onethirteen.co)** — One Thirteen's official website.
->
-> 🌐 **[whatnickthinks.com](https://whatnickthinks.com)** - One of our first-ever projects, no longer receiving updates (2008-2019).
-
----
-
-## 🌐 Connect With Us
-
-- 📸 [Instagram @onethirteenco](https://instagram.com/onethirteenco)  
-- 🐦 [Twitter @onethirteen_co](https://twitter.com/onethirteen_co)  
-- 🌌 [BlueSky @onethirteen.co](https://bsky.app/profile/onethirteen.co)
-
----
