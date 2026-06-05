@@ -10,8 +10,8 @@
 | App | Description | Status | Platform | Links |
 |-----|-------------|--------|----------|-------|
 | **Bit Buddy** | Track and manage external drives (HDDs, SSDs, etc.) | 🟢 **v3.0.2** | iOS/iPadOS | [🔗 App Store](https://one13.link/bitbuddy)
-| **Quick.Link** | Create and manage custom short links via YOURLS | 🟢 **v2,1** | iOS | [🔗 App Store](https://one13.link/quick-link-dl)
-| **Cribbo** | A gorgeous HomeKit and Matter code logger. | 🟢 **v1.1** | iOS | [🔗 App Store](https://one13.link/cribbo-dl)
+| **Quick.Link** | Create and manage custom short links via YOURLS | 🟢 **v2,1** | iOS/macOS | [🔗 App Store](https://one13.link/quick-link-dl)
+| **Cribbo** | A gorgeous HomeKit and Matter code logger. | 🟢 **v1.1** | iOS/iPadOS/watchOS | [🔗 App Store](https://one13.link/cribbo-dl)
 | **Moneyminder** | A simple app for setting and tracking savings goals | 🟣 **v0.9a** | iOS |
 
 ---
