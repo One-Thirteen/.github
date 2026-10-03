@@ -9,6 +9,7 @@
 
 | App | Description | Status | Platform | Links |
 |-----|-------------|--------|----------|-------|
+| **Flyby** | Your preflight drone companion. | 🟢 **v1.2** | iOS | [🔗 App Store](https://one13.link/flyby-dl)
 | **Bit Buddy** | Track and manage external drives (HDDs, SSDs, etc.) | 🟢 **v3.1** | iOS/iPadOS | [🔗 App Store](https://one13.link/bitbuddy)
 | **Slug** | Create/manage custom short links via YOURLS | 🟢 **v3.0** | iOS/macOS | [🔗 App Store](https://one13.link/quick-link-dl)
 | **Cribbo** | A gorgeous HomeKit and Matter code logger. | 🟢 **v1.2** | iOS/iPadOS/watchOS | [🔗 App Store](https://one13.link/cribbo-dl)
